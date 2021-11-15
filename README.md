@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Evelyn Cooper!
 
 
-- 👀 I’m interested in developing skills in cyber security and Python.
-- 🌱 I’m currently going through an online Algorithms CS course.
+- 👀 I’m interested in developing skills in cybersecurity and Python.
+- 🌱 I’m currently going through in the process of becoming Security+ certified.
 - 💞️ I’m looking to collaborate on an open source project.
 - 📫 Reach me at evelyn.cooper.lhs@gmail.com
 
